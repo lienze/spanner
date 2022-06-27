@@ -1,0 +1,16 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+tab_width = 8
+
+# Makefile
+[{Makefile*,*.mk}]
+indent_style = tab
+indent_size = 8
+
+# C/C++
+[*.{c,h}]
+indent_style = tab
+indent_size = 2
