@@ -55,3 +55,13 @@ dkms.conf
 GPATH
 GRTAGS
 GTAGS
+
+# excutable file
+src/spanner
+
+# misc
+stamp-h1
+*Makefile*
+config.log
+config.status
+src/.deps/
